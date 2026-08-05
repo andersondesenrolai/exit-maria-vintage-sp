@@ -24,6 +24,9 @@ Apresentação estática da proposta de conteúdo pré-evento para Maria, cobrin
 ## Pendências
 
 - **Rename do projeto Vercel** de `exit-maria-vintage-sp` para `exit-maria-sp` (dashboard ou API — não é feito só renomeando a pasta local). A URL de produção muda junto.
-- **Rename do repositório GitHub** (opcional, depende de acesso de escrita).
+- **Rename do repositório GitHub** de `exit-maria-vintage-sp` para `exit-maria-sp` (opcional; feito por Anderson no GitHub).
 - Confirmar cupom e link finais do Piknic (agtoday) antes de publicar os vídeos.
-- Push pendente: a credencial da sessão (`andersonmassuzaki`) não tem escrita em `andersondesenrolai/exit-maria-vintage-sp`. Reautenticar e rodar `git push -u origin main`.
+
+## Estado
+
+- Push concluído em 05/08/2026 para `andersondesenrolai/exit-maria-vintage-sp` (branch `main`), com a apresentação ampliada para 2 eventos (Vintage + Piknic). Deploy automático via Vercel.
